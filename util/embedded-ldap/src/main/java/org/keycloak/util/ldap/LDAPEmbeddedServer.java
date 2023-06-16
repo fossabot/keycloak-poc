@@ -78,6 +78,7 @@ public class LDAPEmbeddedServer {
     private static final String DEFAULT_LDIF_FILE = "classpath:ldap/default-users.ldif";
     private static final String PROPERTY_KEYSTORE_FILE = "keystoreFile";
     private static final String PROPERTY_CERTIFICATE_PASSWORD = "certificatePassword";
+    private static final String ANOTHER_PROPERTY_CERTIFICATE_PASSWORD = "ANOTHERcertificatePassword";
 
     public static final String DSF_INMEMORY = "mem";
     public static final String DSF_FILE = "file";
