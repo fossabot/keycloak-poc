@@ -1,4 +1,6 @@
 # Keycloak
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabstractj%2Fkeycloak-poc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabstractj%2Fkeycloak-poc?ref=badge_shield)
+
 
 Keycloak is an Open Source Identity and Access Management solution for modern Applications and Services.
 
@@ -65,3 +67,6 @@ Before contributing to Keycloak, please read our [contributing guidelines](CONTR
 ## License
 
 * [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabstractj%2Fkeycloak-poc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabstractj%2Fkeycloak-poc?ref=badge_large)
